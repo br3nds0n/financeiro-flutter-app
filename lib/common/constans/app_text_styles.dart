@@ -6,5 +6,6 @@ class AppTextStyles {
   static const TextStyle bigText = TextStyle(
     fontSize: 30,
     fontWeight: FontWeight.w700,
+    fontFamily: 'Inter'
   );
 }
